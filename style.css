@@ -1,0 +1,35 @@
+body{
+  background-color: #e9eaed
+}
+
+.post{
+  width: 500px;
+  margin:auto; 
+  background-color: #ffffff;
+  font-size: 20px;
+  margin-top:30px;
+}
+.post-header{
+  background-color: #3d5d9d;
+  color:#ffffff;
+  padding:10px;
+}
+.post-body{
+  padding:20px
+}
+.post-comment{
+  
+}
+
+#newCommentField{
+  width:95%;
+  padding:10px;
+  font-size: 18px;
+}
+
+#postCommentButton{
+  padding:10px;
+  font-size: 17px;
+  background: #c4dedf;
+  border: 0
+}
